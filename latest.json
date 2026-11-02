@@ -1,0 +1,7 @@
+{
+ "version": "0.8.0",
+ "date": "2026-11-03",
+ "notes": "新增软件更新：只下载改动的文件，重启替换，失败自动回滚；设置 → 软件更新",
+ "manifest": "manifests/0.8.0.json",
+ "installer": "https://github.com/fangliyin-create/dw-atlas-releases/releases/download/v0.8.0/DWAtlas-Setup-0.8.0.exe"
+}
